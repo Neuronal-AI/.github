@@ -1,5 +1,3 @@
----
-
 # Welcome to **Neuronal** 🧠📈
 
 **Neuronal** is a pioneering health-tech startup focused on revolutionizing mental and physical well-being through advanced wearable technology. Our mission is to empower individuals with real-time health insights and access to therapist support, all integrated into a single wearable device. From heart rate and blood pressure monitoring to brainwave analysis and mental health assessments, Neuronal bridges the gap between mind, body, and technology.
@@ -36,12 +34,13 @@ If you’d like to join our mission and contribute, check out our [CONTRIBUTING.
 
 ## 💬 **Get in Touch**
 We’d love to hear from you! Whether you have questions, suggestions, or just want to chat, feel free to reach out:
-
+- **Website**: [neuronal.com](#)
+- **Email**: contact@neuronal.com
+- **Patreon**: [Support Us](#)
+- **Instagram**: [@neuronal](#)
 
 Join us as we work to redefine the future of health. Together, we can make well-being smarter, more connected, and accessible to all.
 
 ---
 
 **Neuronal** – Wear Wellness, Live Healthier 🌿
-
----
