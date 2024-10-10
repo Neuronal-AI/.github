@@ -36,7 +36,7 @@ If you’d like to join our mission and contribute, check out our [CONTRIBUTING.
 We’d love to hear from you! Whether you have questions, suggestions, or just want to chat, feel free to reach out:
 - **Website**: [updated soon](#)
 - **Email**: updated soon
-- **Patreon**: [Support Us](#)
+- **Patreon**: [Support Us](https://www.patreon.com/NeuronalAI)
 - **Instagram**: [updated soon](#)
 
 Join us as we work to redefine the future of health. Together, we can make well-being smarter, more connected, and accessible to all.
