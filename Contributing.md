@@ -4,7 +4,7 @@ Thank you for your interest in contributing to **Neuronal**! We’re excited to 
 
 ## Table of Contents
 
-1. [Code of Conduct](#https://github.com/Neuronal-AI/.github/blob/main/codeofconduct.md)
+1. [Code of Conduct](#code-of-conduct)
 2. [How to Contribute](#how-to-contribute)
    - [Reporting Bugs](#reporting-bugs)
    - [Suggesting Enhancements](#suggesting-enhancements)
@@ -20,7 +20,7 @@ Thank you for your interest in contributing to **Neuronal**! We’re excited to 
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct]() to ensure a welcoming and respectful environment for everyone.
+Please read and follow our [Code of Conduct](https://github.com/Neuronal-AI/.github/blob/main/codeofconduct.md) to ensure a welcoming and respectful environment for everyone.
 
 ## How to Contribute
 
