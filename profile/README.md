@@ -34,10 +34,10 @@ If you’d like to join our mission and contribute, check out our [CONTRIBUTING.
 
 ## 💬 **Get in Touch**
 We’d love to hear from you! Whether you have questions, suggestions, or just want to chat, feel free to reach out:
-- **Website**: [updated soon](#)
-- **Email**: updated soon
+- **Website**: [Explore Here](https://neuronal-ai.github.io/Neuronal-Website/)
+- **Email**: [Contact Now](mailto:devaansh.neuronal@gmail.com)
 - **Patreon**: [Support Us](https://www.patreon.com/NeuronalAI)
-- **Instagram**: [updated soon](#)
+- **Instagram**: [Click Here](https://www.instagram.com/neuronal.ai/)
 
 Join us as we work to redefine the future of health. Together, we can make well-being smarter, more connected, and accessible to all.
 
