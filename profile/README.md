@@ -30,7 +30,7 @@ We are a community-driven project and welcome contributions from developers, dat
 3. **Submit pull requests** to contribute code or documentation improvements.
 4. **Share feedback** and engage with our development community.
 
-If you’d like to join our mission and contribute, check out our [CONTRIBUTING.md](link-to-contributing.md) for guidelines on how to get started.
+If you’d like to join our mission and contribute, check out our [CONTRIBUTING.md](https://github.com/Neuronal-AI/.github/blob/main/Contributing.md) for guidelines on how to get started.
 
 ## 💬 **Get in Touch**
 We’d love to hear from you! Whether you have questions, suggestions, or just want to chat, feel free to reach out:
